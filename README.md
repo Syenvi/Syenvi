@@ -10,7 +10,7 @@
 
 <br/>
 
-<h3 align="center">A Fullstack Developer from Indonesia 🇮🇩</h3>
+<h3 align="center">someone who really likes this new solution and wants to become an entrepreneur based on the system that has been developed</h3>
 
 <br/>
 
@@ -19,8 +19,6 @@
 - 📫 How to reach me: **syahdinraditya@gmail.com**
 
 <br/>
-
-### 🤝 Connect with me
 
 ### 🤝 Connect with me
 
