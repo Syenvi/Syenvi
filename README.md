@@ -17,7 +17,6 @@
 - 🔭 All of my projects are available at [syenvi.space](https://syenvi.space)
 - 💬 Ask me about **Next.js, React, TypeScript, TailwindCSS**
 - 📫 How to reach me: **syahdinraditya@gmail.com**
-- ⚡ Fun fact: *Debugging is just being the detective in a crime movie where you're also the murderer*
 
 <br/>
 
