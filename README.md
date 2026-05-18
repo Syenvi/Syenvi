@@ -37,7 +37,7 @@
 ### 🛠️ Languages and Tools
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,nodejs,express,laravel,php,prisma,mysql,postgres,supabase,git,vite&perline=8" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,nodejs,express,laravel,php,prisma,mysql,postgres,supabase,git,vite,nest&perline=8" />
 </div>
 
 <br/>
@@ -48,10 +48,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satriabahari&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=CDD6F4"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satriabahari&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=F38BA8&currStreakNum=CDD6F4&sideNums=CDD6F4&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=6C7086" />
-</div>
-
 <br/>
 
 <!-- Footer -->
@@ -60,9 +56,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=satriabahari&label=Pengunjung+Profil&color=A78BFA&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Syenvi&label=Pengunjung+Profil&color=A78BFA&style=flat" />
   
-  *「諦めたら、そこで試合終了ですよ」*
-  
-  *"Kalau nyerah, ya di situ pertandingannya berakhir"* — Anzai-sensei, Slam Dunk
+ 「夢は叶えるもんじゃなく、叶えるまでやめないもんだ」 — "Mimpi bukan sesuatu yang diraih, tapi sesuatu yang tidak pernah kamu berhenti kejar" — Whitebeard
 </div>
