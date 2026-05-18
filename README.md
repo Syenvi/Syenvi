@@ -23,12 +23,14 @@
 
 ### 🤝 Connect with me
 
+### 🤝 Connect with me
+
 <div align="left">
   <a href="https://linkedin.com/in/syahdinraditya" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://syenvi.space" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <a href="https://instagram.com/syahdinraditya" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </div>
 
