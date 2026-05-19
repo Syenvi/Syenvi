@@ -16,7 +16,7 @@
 
 - 🔭 All of my projects are available at [syenvi.space](https://syenvi.space)
 - 💬 Ask me about **Next.js, React, TypeScript, TailwindCSS**
-- 📫 How to reach me: **syahdinraditya@gmail.com**
+- 📫 How to reach me: **syahdinradityahafid@gmail.com**
 
 <br/>
 
