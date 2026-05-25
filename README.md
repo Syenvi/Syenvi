@@ -51,5 +51,5 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Syenvi&label=Pengunjung+Profil&color=A78BFA&style=flat" />
   
- 「夢は叶えるもんじゃなく、叶えるまでやめないもんだ」 — "Mimpi bukan sesuatu yang diraih, tapi sesuatu yang tidak pernah kamu berhenti kejar" — Whitebeard
+ 「夢は叶えるもんじゃなく、叶えるまでやめないもんだ」 — "dreams aren’t something you achieve, but something you never stop working towards" — Whitebeard
 </div>
